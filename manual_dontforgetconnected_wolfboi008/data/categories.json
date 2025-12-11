@@ -1,0 +1,23 @@
+{
+    "Save Points": {
+        "yaml_option": ["savesanity"]
+    },
+    "Minigames": {
+        "yaml_option": ["minigamesanity"]
+    },
+    "Spider Bake Sale": {
+        "yaml_option": ["spiders"]
+    },
+    "Grillby's Shop": {
+        "yaml_option": ["grillby"]
+    },
+    "Tem Shop": {
+        "yaml_option": ["tem"]
+    },
+    "Diner": {
+        "yaml_option": ["diner"]
+    },
+    "Dark World Bake Sale": {
+        "yaml_option": ["darkners"]
+    }
+}

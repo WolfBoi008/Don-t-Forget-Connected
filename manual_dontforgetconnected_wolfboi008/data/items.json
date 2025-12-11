@@ -1,0 +1,1074 @@
+[
+  {
+    "count": "15",
+    "name": "Progressive Weapon",
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "count": "10",
+    "name": "Progressive Armor",
+    "category": [
+      "Equipment"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Burger",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Choco Diamond",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Crawly Cuppa",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Creepy Crepe",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Fries",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hearts Donut",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hot Chocolate",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Candy",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Salad",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Soda",
+    "category": [
+      "Consumables"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Tem Flake",
+    "category": [
+      "Consumables"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Crystal Bepis",
+    "category": [
+      "Drinks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "GamerBlood",
+    "category": [
+      "Drinks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "GLD BRU",
+    "category": [
+      "Drinks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "PaciKiss",
+    "category": [
+      "Drinks"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "VIP Pass",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Silver Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Tem Key",
+    "category": [
+      "Key Items"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Snowdin Key",
+    "category": [
+      "Area Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Waterfall Key",
+    "category": [
+      "Area Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Hotland Key",
+    "category": [
+      "Area Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "New Home Key",
+    "category": [
+      "Area Keys"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Harlow (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Frisk (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chara (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Sans (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Papyrus (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Toriel (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alphys (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Undyne (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Napstablook (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Asriel (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Grillby (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Kid (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "King Fluffybuns (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Riverperson (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "The Rock (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mettaton (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Mew Mew (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Muffet (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Kris (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Susie (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ralsei (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lancer (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "C. Round (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rudinn (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Hathy (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jigsawry (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jockington (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Teen (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Noelle (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos King (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Annoying Dog (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Temmie (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Rouxls Kaard (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Berdly (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Underswap Sans (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Underswap Papyrus (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Underfell Sans (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Underfell Papyrus (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Underracer Flowey (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Inktale Sans (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Errortale Sans (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Chara (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Asriel (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Ness (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Paula (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Jeff (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Poo (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Varik (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Joker (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Lonely Girl (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Niko (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Quote (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Remedy (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Madotsuki (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Omori (Vessel)",
+    "category": [
+      "Vessels"
+    ],
+    "filler": true
+  },
+  {
+    "count": 1,
+    "name": "Harlow (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Frisk (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chara (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Sans (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Papyrus (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Toriel (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alphys (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "progression": true
+  },
+  {
+    "count": 1,
+    "name": "Undyne (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Napstablook (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Asriel (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Grillby (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Kid (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "King Fluffybuns (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Riverperson (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "The Rock (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mettaton (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Mew Mew (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Muffet (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Kris (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Susie (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ralsei (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lancer (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "C. Round (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rudinn (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Hathy (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jigsawry (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jockington (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Monster Teen (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Noelle (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Chaos King (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Annoying Dog (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Temmie (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Rouxls Kaard (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Berdly (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Underswap Sans (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Underswap Papyrus (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Underfell Sans (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Underfell Papyrus (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Underracer Flowey (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Inktale Sans (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Errortale Sans (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Chara (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Alternate Asriel (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Ness (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Paula (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Jeff (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Poo (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Varik (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Joker (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Lonely Girl (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Niko (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Quote (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Remedy (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Madotsuki (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  },
+  {
+    "count": 1,
+    "name": "Omori (Partner)",
+    "category": [
+      "Partners"
+    ],
+    "useful": true
+  }
+]

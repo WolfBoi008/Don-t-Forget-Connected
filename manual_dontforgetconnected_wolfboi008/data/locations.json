@@ -1,0 +1,1284 @@
+[
+  {
+    "name": "Read About Book",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Books"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Read Rules Book",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Books"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Read Manual Book",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Books"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ruins Entrance Save Point",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Old Stick",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Weapon Chests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monster Candy 1",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monster Candy 2",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Frisk",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:1|"
+  },
+  {
+    "name": "Creepy Crepe",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Spider Bake Sale"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Crawly Cuppa",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Spider Bake Sale"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mandarina",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Bosses"
+    ],
+    "requires": "|Progressive Weapon:2|"
+  },
+  {
+    "name": "The Ruins Gold Shrine Save Point",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:2|"
+  },
+  {
+    "name": "Toy Knife",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:1|"
+  },
+  {
+    "name": "Home Save Point",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The Locket",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Toriel",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:2|"
+  },
+  {
+    "name": "Complete The Ruins",
+    "region": "The Ruins",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:2|",
+    "victory": true
+  },
+  {
+    "name": "Froggit",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Bestiary"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Whimsun",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Bestiary"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Vegetoid",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:2|"
+  },
+  {
+    "name": "Migosp",
+    "region": "The Ruins",
+    "category": [
+      "The Ruins",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:2|"
+  },
+  {
+    "name": "LV 2",
+    "region": "The Ruins",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:1|"
+  },
+  {
+    "name": "LV 3",
+    "region": "The Ruins",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:1|"
+  },
+  {
+    "name": "LV 4",
+    "region": "The Ruins",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:2|"
+  },
+  {
+    "name": "Box Road Save Point",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rusty Knife",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Armor:1|"
+  },
+  {
+    "name": "Snowdin Gold Shrine Save Point",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Red Scarf",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Armor Chests"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Epic Shades",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "Sans",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:5| AND |Progressive Armor:2|"
+  },
+  {
+    "name": "Snowdin Town Save Point",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Burger",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Grillby's Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fries",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Grillby's Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Soda",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Grillby's Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Salad",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Grillby's Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ice Shard",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:4| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Score 5000 Points in Dance Dance Spaghetti",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Minigames"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Play Spaghetti Clicker",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Minigames"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Papyrus",
+    "region": "Snowdin",
+    "category": [
+      "Snowdin",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Complete Snowdin",
+    "region": "Snowdin",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|",
+    "victory": true
+  },
+  {
+    "name": "Snowdrake",
+    "region": "Snowdin",
+    "category": [
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Ice Cap",
+    "region": "Snowdin",
+    "category": [
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Gyftrot",
+    "region": "Snowdin",
+    "category": [
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "LV 5",
+    "region": "Snowdin",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Armor:1|"
+  },
+  {
+    "name": "LV 6",
+    "region": "Snowdin",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Checkpoint Save Point",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Wooden Bat",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "Magic Spear",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:6| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "VIP Pass from Cuttlefish",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Key Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Fairy Wand",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:5| AND |Progressive Armor:2|"
+  },
+  {
+    "name": "Old Tutu",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:5| AND |Progressive Armor:2|"
+  },
+  {
+    "name": "Quiet Hub Save Point",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tem Armor",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Armor Chests"
+    ],
+    "requires": "|Tem Key|"
+  },
+  {
+    "name": "Tem Flake 1",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Tem Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tem Flake 2",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Tem Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tem Flake 3",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Tem Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tem Key",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Tem Shop"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Anime Sword",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:7| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Win a Level of Splat2D",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Minigames"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Win a Race in Thundersnail",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Minigames"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mine Diamonds in Minecrap",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Minigames"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Waterfall Gold Shrine Save Point",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:6| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Crag Save Point",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Undyne",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:7| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Complete Waterfall",
+    "region": "Waterfall",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:7| AND |Progressive Armor:3|",
+    "victory": true
+  },
+  {
+    "name": "Aaron",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:6| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Woshua",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:6| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Moldsmal",
+    "region": "Waterfall",
+    "category": [
+      "Waterfall",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:6| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "LV 7",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "LV 8",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:3| AND |Progressive Armor:1|"
+  },
+  {
+    "name": "LV 9",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:5| AND |Progressive Armor:2|"
+  },
+  {
+    "name": "LV 10",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:5| AND |Progressive Armor:2|"
+  },
+  {
+    "name": "LV 11",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:6| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "LV 12",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:8| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "LV 13",
+    "region": "Waterfall",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Laboratory Save Point",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collect $250 in Grand Theft Harlow",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Minigames"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Alphys",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:8| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Hotland Disrespect",
+    "region": "Hotland",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:8| AND |Progressive Armor:3|",
+    "victory": true
+  },
+  {
+    "name": "Loaded Gun",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Cowboy Hat",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Hotland Gold Shrine Save Point",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Hotel Lobby Save Point",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:8| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Vulkin",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Tsunderplane",
+    "region": "Hotland",
+    "category": [
+      "Hotland",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "Open True Lab",
+    "region": "The CORE",
+    "category": [
+      "The CORE"
+    ],
+    "requires": "|Alphys (Vessel)|"
+  },
+  {
+    "name": "The CORE Bridge Save Point",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "The CORE Gold Shrine Save Point",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "G. Blaster",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:10| AND |Progressive Armor:4|"
+  },
+  {
+    "name": "Lab Coat",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:10| AND |Progressive Armor:4|"
+  },
+  {
+    "name": "Mettaton",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "Complete The CORE",
+    "region": "The CORE",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|",
+    "victory": true
+  },
+  {
+    "name": "Final Froggit",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "Whimsalot",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "Astigmatism",
+    "region": "The CORE",
+    "category": [
+      "The CORE",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "LV 14",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:9| AND |Progressive Armor:3|"
+  },
+  {
+    "name": "LV 15",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:10| AND |Progressive Armor:4|"
+  },
+  {
+    "name": "LV 16",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:10| AND |Progressive Armor:4|"
+  },
+  {
+    "name": "LV 17",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "LV 18",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:12| AND |Progressive Armor:6|"
+  },
+  {
+    "name": "LV 19",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "LV 20",
+    "region": "The CORE",
+    "category": [
+      "LOVE"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "New Home Elevator Save Point",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "New Home Save Point",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Real Knife",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:12| AND |Progressive Armor:6|"
+  },
+  {
+    "name": "Broken Locket",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:14| AND |Progressive Armor:9|"
+  },
+  {
+    "name": "Silver Key",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Key Items"
+    ],
+    "requires": []
+  },
+  {
+    "name": "True Knife",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:14| AND |Progressive Armor:9|"
+  },
+  {
+    "name": "Asgore",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "Complete New Home",
+    "region": "New Home",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|",
+    "victory": true
+  },
+  {
+    "name": "Green Room Save Point",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glitch Ticket from Ramb (LV 20)",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Glitch Tickets"
+    ],
+    "requires": "{canReachLocation(LV 20)}"
+  },
+  {
+    "name": "Kris' Home Save Point",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Noelle",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:10| AND |Progressive Armor:4|"
+  },
+  {
+    "name": "Noelle's Kitchen Save Point",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Save Points"
+    ],
+    "requires": "{canReachLocation(Noelle)}"
+  },
+  {
+    "name": "Hot Chocolate",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Diner"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Berdly",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:10| AND |Progressive Armor:4|"
+  },
+  {
+    "name": "School Save Point",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Susie",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "Study Save Point",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glitch Ticket in Study",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Glitch Tickets"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Kris",
+    "region": "Hometown",
+    "category": [
+      "Hometown",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "Spookysword",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "Field of Hopes and Dreams Save Point",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "White Ribbon",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Armor Chests"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "Card Kingdom Gold Shrine Save Point",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Save Points"
+    ],
+    "requires": "|Progressive Weapon:11| AND |Progressive Armor:5|"
+  },
+  {
+    "name": "Forest Save Point",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Master Sword",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Weapon Chests"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "Choco Diamond",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Dark World Bake Sale"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hearts Donut",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Dark World Bake Sale"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Card Castle Save Point",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Ralsei",
+    "region": "Card Kingdom",
+    "category": [
+      "Card Kingdom",
+      "Corruptions"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|"
+  },
+  {
+    "name": "Complete Card Kingdom",
+    "region": "Card Kingdom",
+    "category": [
+      "Goal"
+    ],
+    "requires": "|Progressive Weapon:13| AND |Progressive Armor:7|",
+    "victory": true
+  },
+  {
+    "name": "Lost World 1 Save Point",
+    "region": "Lost World 1",
+    "category": [
+      "Lost World 1",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Long Corridor Save Point",
+    "region": "Lost World 1",
+    "category": [
+      "Lost World 1",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Foul Monster",
+    "region": "Lost World 1",
+    "category": [
+      "Lost World 1",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monstertest1",
+    "region": "Lost World 1",
+    "category": [
+      "Lost World 1",
+      "Bestiary"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Monstertest2",
+    "region": "Lost World 1",
+    "category": [
+      "Lost World 1",
+      "Bestiary"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost World 2 Save Point",
+    "region": "Lost World 2",
+    "category": [
+      "Lost World 2",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bad Tom",
+    "region": "Lost World 2",
+    "category": [
+      "Lost World 2",
+      "Bosses"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Froglitch",
+    "region": "Lost World 2",
+    "category": [
+      "Lost World 2",
+      "Bestiary"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Glitchsun",
+    "region": "Lost World 2",
+    "category": [
+      "Lost World 2",
+      "Bestiary"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Lost World 3 Save Point",
+    "region": "Lost World 3",
+    "category": [
+      "Lost World 3",
+      "Save Points"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Gasterbot",
+    "region": "Lost World 3",
+    "category": [
+      "Lost World 3",
+      "Bosses"
+    ],
+    "requires": "|Progressive Armor:1|"
+  },
+  {
+    "name": "Missingno",
+    "region": "Lost World 3",
+    "category": [
+      "Lost World 3",
+      "Bestiary"
+    ],
+    "requires": "|Progressive Armor:1|"
+  }
+]

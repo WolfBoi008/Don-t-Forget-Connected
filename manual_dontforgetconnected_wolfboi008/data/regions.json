@@ -1,0 +1,63 @@
+{
+  "The Ruins": {
+    "starting": true,
+    "connects_to": [
+      "Snowdin",
+      "Waterfall",
+      "Hotland",
+      "New Home",
+      "Lost World 1"
+    ],
+    "requires": []
+  },
+  "Snowdin": {
+    "connects_to": [
+      "Hometown",
+      "Lost World 2"
+    ],
+    "requires": "|Snowdin Key| AND |Progressive Weapon:2|"
+  },
+  "Waterfall": {
+    "connects_to": [
+    ],
+    "requires": "|Waterfall Key| AND |Progressive Weapon:2|"
+  },
+  "Hotland": {
+    "connects_to": [
+      "The CORE"
+    ],
+    "requires": "|Hotland Key| AND |Progressive Weapon:2|"
+  },
+  "The CORE": {
+    "connects_to": [
+      "Lost World 3"
+    ],
+    "requires": "|Progressive Weapon:8| AND |Progressive Armor:3|"
+  },
+  "New Home": {
+    "connects_to": [],
+    "requires": "|New Home Key| AND |Progressive Weapon:2|"
+  },
+  "Hometown": {
+    "connects_to": [
+      "Card Kingdom"
+    ],
+    "requires": "|New Home Key| AND |Silver Key|"
+  },
+  "Card Kingdom": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Lost World 1": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Lost World 2": {
+    "connects_to": [],
+    "requires": []
+  },
+  "Lost World 3": {
+    "connects_to": [],
+    "requires": []
+  }
+}
