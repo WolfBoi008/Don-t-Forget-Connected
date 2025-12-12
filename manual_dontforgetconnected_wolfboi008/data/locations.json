@@ -985,6 +985,15 @@
     "victory": true
   },
   {
+    "name": "Asriel",
+    "region": "New Home",
+    "category": [
+      "New Home",
+      "Corruptions"
+    ],
+    "requires": "{canReachLocation(Asgore)}"
+  },
+  {
     "name": "Green Room Save Point",
     "region": "Hometown",
     "category": [
@@ -1253,6 +1262,15 @@
       "Bosses"
     ],
     "requires": []
+  },
+  {
+    "name": "Chara",
+    "region": "Lost World 2",
+    "category": [
+      "Lost World 2",
+      "Corruptions"
+    ],
+    "requires": "{canReachLocation(Asgore)}"
   },
   {
     "name": "Froglitch",
