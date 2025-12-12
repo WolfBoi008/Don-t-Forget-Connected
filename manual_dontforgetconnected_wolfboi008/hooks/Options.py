@@ -1,5 +1,5 @@
 # Object classes from AP that represent different types of options that you can create
-from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, Visibility
+from Options import Option, FreeText, NumericOption, Toggle, DefaultOnToggle, Choice, TextChoice, Range, NamedRange, OptionGroup, PerGameCommonOptions, Visibility, ExcludeLocations
 # These helper methods allow you to determine if an option has been set, or what its value is, for any player in the multiworld
 from ..Helpers import is_option_enabled, get_option_value
 from typing import Type, Any
@@ -32,8 +32,17 @@ class TotalCharactersToWinWith(Range):
     range_end = 50
     default = 50
 
+class DFCExcludeLocations(ExcludeLocations):
+    """
+    Prevent these locations from having an important item.
+    Autofilled with some Weapon and Armor Chest locations due to them being post-Goals and overall time-consuming.
+    ONLY REMOVE IF YOU'RE OKAY WITH LONG GRINDING.
+    """
+    default = frozenset({"Master Sword", "True Knife", "Epic Shades", "Tem Armor", "Broken Locket"})
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
+    options["exclude_locations"] = DFCExcludeLocations
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

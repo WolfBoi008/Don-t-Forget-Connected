@@ -1,7 +1,4 @@
 {
-    "Save Points": {
-        "yaml_option": ["savesanity"]
-    },
     "Minigames": {
         "yaml_option": ["minigamesanity"]
     },

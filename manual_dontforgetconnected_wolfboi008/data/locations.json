@@ -433,6 +433,24 @@
     "requires": []
   },
   {
+    "name": "Splattershot",
+    "region": "The Ruins",
+    "category": [
+      "VIP Area",
+      "Weapon Chests"
+    ],
+    "requires": "{canReachLocation(VIP Pass from Cuttlefish)} AND |VIP Pass| AND |Progressive Weapon:6| AND |Progressive Armor:2|"
+  },
+  {
+    "name": "Cuttlefish Vest",
+    "region": "The Ruins",
+    "category": [
+      "VIP Area",
+      "Armor Chests"
+    ],
+    "requires": "{canReachLocation(VIP Pass from Cuttlefish)} AND |VIP Pass| AND |Progressive Weapon:6| AND |Progressive Armor:2|"
+  },
+  {
     "name": "Fairy Wand",
     "region": "Waterfall",
     "category": [
@@ -687,7 +705,7 @@
     "requires": "|Progressive Weapon:8| AND |Progressive Armor:3|"
   },
   {
-    "name": "Hotland Disrespect",
+    "name": "Disrespect Hotland",
     "region": "Hotland",
     "category": [
       "Goal"
@@ -1280,5 +1298,14 @@
       "Bestiary"
     ],
     "requires": "|Progressive Armor:1|"
+  },
+  {
+    "name": "Complete Lost Worlds",
+    "region": "Lost World 3",
+    "category": [
+      "Goal"
+    ],
+    "requires": "{canReachLocation(Foul Monster)} AND {canReachLocation(Bad Tom)} AND {canReachLocation(Gasterbot)}",
+    "victory": true
   }
 ]

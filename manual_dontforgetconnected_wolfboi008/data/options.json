@@ -7,7 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "The End Objective",
-            "description": "Choose your Goal condition.\n- Complete The Ruins: Defeat the Toriel Corruption at the end of The Ruins.\n- Complete Snowdin: Defeat the Papyrus Corruption at the end of Snowdin.\n- Complete Waterfall: Defeat the Undyne Corruption at the end of Waterfall.\n- Hotland Disrespect: Defeat the Alphys Corruption at the beginning of Hotland, negating any other need to go to Hotland other than post-Goal.\n- Complete The CORE: Defeat the Mettaton Corruption at the end of The CORE.\n- Complete New Home: Defeat the Asgore Corruption at the end of New Home.\n- Complete Card Kingdom: Defeat the Ralsei Corruption at the end of Card Kingdom.",
+            "description": "Choose your Goal condition.\n- Complete The Ruins: Defeat the Toriel Corruption at the end of The Ruins.\n- Complete Snowdin: Defeat the Papyrus Corruption at the end of Snowdin.\n- Complete Waterfall: Defeat the Undyne Corruption at the end of Waterfall.\n- Disrespect Hotland: Defeat the Alphys Corruption at the beginning of Hotland, negating any other need to go to Hotland other than post-Goal.\n- Complete The CORE: Defeat the Mettaton Corruption at the end of The CORE.\n- Complete New Home: Defeat the Asgore Corruption at the end of New Home.\n- Complete Card Kingdom: Defeat the Ralsei Corruption at the end of Card Kingdom.",
             "hidden": false
         }
     },
@@ -86,16 +86,6 @@
             ],
             "type": "Toggle",
             "default": false
-        },
-        "savesanity": {
-            "display_name": "Savesanity",
-            "description": [
-                "Adds a Check for every Save Point within the game.",
-                "This currently excludes the PvP Room.",
-                "(23 Checks)"
-            ],
-            "type": "Toggle",
-            "default": true
         }
     }
 
